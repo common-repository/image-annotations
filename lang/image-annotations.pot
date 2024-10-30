@@ -1,0 +1,57 @@
+# Copyright (C) 2015 Image Annotations
+# This file is distributed under the same license as the Image Annotations package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Image Annotations 1.03\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/image-annotations\n"
+"POT-Creation-Date: 2015-01-12 11:50:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-01-12 14:59+0300\n"
+"Last-Translator: Gurin Dmitriy <m03g@bk.ru>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: image-annotations.php:48 image-annotations.php:55
+msgid "Author"
+msgstr "Автор"
+
+#: image-annotations.php:49 image-annotations.php:56
+msgid "Annotation"
+msgstr "Комментарий"
+
+#: image-annotations.php:50 image-annotations.php:57
+msgid "In response to"
+msgstr "В ответ на"
+
+#: image-annotations.php:70
+msgid "Submitted on"
+msgstr "Отправлен"
+
+#: image-annotations.php:215
+msgid "Delete comment"
+msgstr "Удалить комментарий"
+
+#: image-annotations.php:218
+msgid "Time to end editing capabilities"
+msgstr "Время до окончания срока возможности редактирования"
+
+#: image-annotations.php:218
+msgid "Edit comment (edit 15 minutes from the time of publication)"
+msgstr ""
+"Отредактировать комментарий (редактирование доступно в течение 15 минут с "
+"момента публикации)"
+
+#: image-annotations.php:220
+msgid "User time"
+msgstr "Время пользователя"
+
+#: image-annotations.php:225
+msgid "Show/hide comments"
+msgstr "Показать/скрыть комментарии"
+
+#: image-annotations.php:334
+msgid "Comment"
+msgstr "Комментарий"
